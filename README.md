@@ -1,1 +1,1 @@
-I renamed the Java Script file on line 50 in my HTML script to "bellybutton" to make it easier for myself, I also removed line 51 which references the bonus part of the assignment I was not planning on doing that portion.
+I renamed the Java Script file on line 50 in my HTML script to "bellybutton" to make it easier for myself, I also removed line 51 which references the bonus part of the assignment, I was not planning on doing that portion.
